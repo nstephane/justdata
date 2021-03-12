@@ -1,0 +1,59 @@
+{
+  "currencies": [
+    {
+      "id": "bf12e19a-5159-4213-b58d-4fa07fc9dac2",
+      "type": "currency",
+      "attributes": {
+        "currency_code": "ZAR",
+        "currency_name": "South African Rand",
+        "currency_symbol": "R",
+        "currency_country": "South Africa",
+        "currency_image_link": null
+      }
+    },
+    {
+      "id": "51634922-9ce5-4bdd-9316-fd0f108cfccb",
+      "type": "currency",
+      "attributes": {
+        "currency_code": "XAF",
+        "currency_name": "CFA Franc BEAC",
+        "currency_symbol": "FCFA",
+        "currency_country": "Cameroon",
+        "flag": "https://restcountries.eu/data/cmr.svg"
+      }
+    },
+    {
+      "id": "e326ea28-4095-4e34-9379-ff2fe5e88c64",
+      "type": "currency",
+      "attributes": {
+        "currency_code": "NGN",
+        "currency_name": "Nigerian Naira",
+        "currency_symbol": "₦",
+        "currency_country": "Nigeria",
+        "flag": "https://restcountries.eu/data/ngn.svg"
+      }
+    },
+    {
+      "id": "0ef25add-fb72-4bf8-8330-b1642b6ea814",
+      "type": "currency",
+      "attributes": {
+        "currency_code": "USD",
+        "currency_name": "United States Dollar",
+        "currency_symbol": "$",
+        "currency_country": "United States",
+        "flag": "https://restcountries.eu/data/usd.svg"
+      }
+    },
+    {
+      "id": "8b6b5f52-bbba-4115-a4d8-12a23c09b542",
+      "type": "currency",
+      "attributes": {
+        "currency_code": "GBP",
+        "currency_name": "British Pound Sterling",
+        "currency_symbol": "£",
+        "currency_country": "United Kingdom",
+        "flag": "https://restcountries.eu/data/gbp.svg"
+      }
+    }
+  ]
+}
